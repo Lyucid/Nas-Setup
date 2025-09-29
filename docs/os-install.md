@@ -12,7 +12,7 @@
 ## BIOS/UEFI Settings
 - Boot mode: UEFI
 - SATA mode: AHCI
-- Virtualization: Enabled (if planning VMs)
+- Virtualization: Enabled (for VMs)
 
 ---
 
