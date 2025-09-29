@@ -3,8 +3,8 @@
 ---
 
 ## ISO & Version
-- **OS**: TrueNAS SCALE (e.g., 24.04 Dragonfish)
-- **Source**: Official ISO (link)
+- **OS**: TrueNAS SCALE 
+- **Source**: Official ISO (https://www.truenas.com/download-truenas-community-edition/)
 - **Install Medium**: 16GB USB (flashed with Balena Etcher)
 
 ---
@@ -12,7 +12,7 @@
 ## BIOS/UEFI Settings
 - Boot mode: UEFI
 - SATA mode: AHCI
-- Virtualization: Enabled (for VMs)
+- Virtualization: Enabled (For my VMs)
 
 ---
 
